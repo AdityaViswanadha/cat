@@ -1,0 +1,15 @@
+h1{
+  font-family: monospace;
+  color: lime;
+}
+
+button{
+  height: 100px;
+  width: 100px;
+  background-color: #ABABAB;
+  border-radius: 20px;
+}
+button:hover{
+  transition: 1s ease-in-out;
+  background-color: "white";
+}
